@@ -11,7 +11,8 @@ import markdown
 from datetime import datetime
 import ssl
 
-openai.api_key = 's'
+openai.api_key = 'sk-V9iuGhZEyJVOqV38Rd'
+#4UT3BlbkFJeThJkyjtljcjzj3KRJtA'
 
 
 def chat(dish):
@@ -110,7 +111,7 @@ draft: falce
 
 def run_posts():
 
-    for dish in food_list[152:300]:
+    for dish in food_list[238:300]:
         md = chat(dish)
         rcp = convert_md(md,dish)
         hydish = dish.replace(" ", "-")
@@ -122,8 +123,9 @@ def run_posts():
               file.write(rcp)
 
 
-run_posts()
+#run_posts()
 
 
 
 #print(markdown_content)
+

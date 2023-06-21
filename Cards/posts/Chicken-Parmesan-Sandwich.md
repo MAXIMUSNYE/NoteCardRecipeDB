@@ -1,67 +1,70 @@
 
 ---
 title: "Chicken Parmesan Sandwich Recipe"
-date: 2023-06-21T16:46:07
+date: 2023-06-21T16:57:38
 draft: falce
 ---
 
 # Chicken Parmesan Sandwich Recipe
 
-## Ingredients for Chicken:
-| Ingredients | Quantity |
-| --- | --- |
-| Chicken breast | 2 pieces |
-| Salt | 1 tsp |
-| Black pepper | 1/2 tsp |
-| Garlic powder | 1/2 tsp |
-| Flour | 1/2 cup |
-| Eggs | 2 |
-| Panko bread crumbs | 1 cup |
-| Olive oil | 1/4 cup |
+Craving for a hearty sandwich? Try this Chicken Parmesan Sandwich recipe that's quick and easy to make! 
 
-## Ingredients for Marinara Sauce:
-| Ingredients | Quantity |
-| --- | --- |
-| Olive oil | 1 tbsp |
-| Garlic | 2 cloves |
-| Crushed tomatoes | 1 can |
-| Salt | 1 tsp |
-| Black pepper | 1/2 tsp |
-| Dried basil | 1/2 tsp |
-| Dried oregano | 1/2 tsp |
+## Ingredients:
 
-## Additional Ingredients:
-| Ingredients | Quantity |
+### For the Chicken:
+
+| Qty | Ingredients |
 | --- | --- |
-| Ciabatta bread | 4 slices |
-| Mozzarella cheese | 4 slices |
-| Parmesan cheese | 1/4 cup |
-| Fresh parsley | 1 tbsp (chopped) |
+| 4 | Skinless chicken breasts |
+| 1 cup | Bread crumbs |
+| 1/2 cup | All-purpose flour |
+| 1/2 cup | Grated Parmesan cheese |
+| 2 | Eggs |
+| Salt, to taste |
+| Pepper, to taste |
+
+### For the Sandwich:
+
+|Qty | Ingredients |
+| --- | --- |
+| 4 | Ciabatta buns |
+| 1/2 cup | Marinara sauce |
+| 4 slices | Mozzarella cheese |
+| Fresh basil leaves, for topping |
+| Olive oil, for brushing |
 
 ## Instructions:
 
-1. Preheat the oven to 375°F.
+1. Preheat your oven to 450°F.
 
-2. Season the chicken breast with salt, black pepper, and garlic powder.
+2. In a flat dish, combine bread crumbs, flour, grated Parmesan cheese, salt, and pepper. Mix well.
 
-3. In three separate bowls, put flour, beaten eggs, and panko bread crumbs.
+3. In another bowl, whisk eggs.
 
-4. Coat the chicken breasts in the flour, then the egg, and finally the bread crumbs.
+4. Dip chicken breast in the egg mixture followed by the bread crumb mixture until fully coated.
 
-5. Heat the olive oil in a large skillet over medium heat. Cook the chicken for about 4 minutes on each side or until golden brown.
+5. Heat olive oil in a skillet over medium-high heat.
 
-6. Transfer the chicken to a baking sheet and sprinkle parmesan cheese on top of each breast.
+6. Cook chicken for 2-3 minutes on each side or until golden brown.
 
-7. Bake in the oven for 10-12 minutes or until the chicken is cooked.
+7. Transfer chicken to a baking sheet lined with parchment paper.
 
-8. Meanwhile, heat the olive oil in a saucepan over medium heat. Add minced garlic and sauté until fragrant.
+8. Bake in the oven for 10-12 minutes or until the chicken is fully cooked.
 
-9. Add the crushed tomatoes and spices, bring to a boil, reduce heat and let simmer until thickened.
+9. Brush ciabatta buns with olive oil on one side.
 
-10. Remove the chicken from the oven and place one slice of mozzarella cheese on top of each.
+10. Toast the buns in the oven for 2 minutes or until slightly crispy.
 
-11. Toast the ciabatta bread slices.
+11. To assemble the sandwich, spread marinara sauce on the bottom of the bun.
 
-12. Assemble the sandwich by placing the chicken on the bottom slice of the bread, top with marinara sauce and fresh parsley. Add the top slice of the bread and serve.
+12. Place the chicken on top of the sauce.
 
-Enjoy your delicious Chicken Parmesan Sandwich!
+13. Add a slice of mozzarella cheese on top of the chicken.
+
+14. Close the sandwich with the top bun.
+
+15. Bake in the oven until the cheese has melted.
+
+16. Top the sandwich with fresh basil leaves.
+
+17. Serve and enjoy!
