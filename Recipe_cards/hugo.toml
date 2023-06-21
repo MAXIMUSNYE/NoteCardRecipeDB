@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://mndataleach.github.io/NoteCardRecipeDB/"
+title = "Note Card Recipe DB"
+theme = "papermod"
+languageCode = "en-us"
+contentDir = "Cards"
