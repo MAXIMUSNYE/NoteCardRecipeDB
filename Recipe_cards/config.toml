@@ -1,0 +1,5 @@
+baseURL = "https://mndataleach.github.io/NoteCardRecipeDB/"
+title = "Note Card Recipe DB"
+theme = "papermod"
+languageCode = "en-us"
+contentDir = "Cards"
