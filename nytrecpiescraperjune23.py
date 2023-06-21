@@ -104,13 +104,13 @@ draft: falce
 
 
 
-    return xml
+    return 
 
 def run_posts():
     cards = []
     for dish in food_list[0:4]:
         md = chat(dish)
-        xml = convert_md_to_wp_xml(md,dish)
+        xml = convert_md(md,dish)
         
         cards.append(xml)
 
