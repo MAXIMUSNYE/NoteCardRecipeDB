@@ -1,3 +1,17 @@
+
+---
+title: "Simple Banana Bread Recipe"
+date: 2022-11-20T09:03:20-08:00
+draft: falce
+---
+
+
+
+
+
+
+
+
 # Simple Banana Bread Recipe
 
 This is an easy and classic recipe for banana bread that's perfect for any time of year. The bread is moist, full of banana flavor, and it only takes 10 minutes of preparation time. Let's get baking! 
