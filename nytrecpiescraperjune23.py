@@ -11,8 +11,7 @@ import markdown
 from datetime import datetime
 import ssl
 
-openai.api_key = 'sk-V9iuGhZEyJVOqV38Rd'
-#4UT3BlbkFJeThJkyjtljcjzj3KRJtA'
+openai.api_key = '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'
 
 
 def chat(dish):
@@ -123,7 +122,7 @@ def run_posts():
               file.write(rcp)
 
 
-#run_posts()
+run_posts()
 
 
 

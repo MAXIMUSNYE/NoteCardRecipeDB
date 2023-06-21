@@ -1,52 +1,50 @@
 
 ---
 title: "German Pretzel Recipe"
-date: 2023-06-21T17:23:24
+date: 2023-06-21T17:28:52
 draft: falce
 ---
 
 # German Pretzel Recipe
 
+A German Pretzel is a tasty treat to enjoy any time of the day. Follow this easy recipe to make your own!
+
 ## Ingredients
 
 ### For the Dough
 
-| Qty         | Ingredient         |
-| ----------- | ------------------ |
-| 500g        | All-purpose Flour  |
-| 300ml       | Warm Water         |
-| 1 1/2 tsp   | Active Dry Yeast   |
-| 1 tbsp      | Brown Sugar        |
-| 1/2 tsp     | Salt               |
+| Ingredient | Quantity |
+| :---: | :---: |
+| All-purpose flour | 4 cups |
+| Active dry yeast | 2 tsp |
+| Brown sugar | 1 tbsp |
+| Salt | 1 tsp |
+| Warm water | 1 ½ cups |
 
-### For the Pretzel Bath
+### For the Boiling Solution
 
-| Qty         | Ingredient         |
-| ----------- | ------------------ |
-| 2L          | Water              |
-| 120g        | Baking Soda        |
+| Ingredient | Quantity |
+| :---: | :---: |
+| Water | 8 cups |
+| Baking soda | 1/2 cup |
 
 ### For the Topping
 
-| Qty         | Ingredient         |
-| ----------- | ------------------ |
-| As needed   | Coarse Sea Salt    |
-| 30g         | Unsalted Butter    |
+| Ingredient | Quantity |
+| :---: | :---: |
+| Coarse salt | As needed |
+| Unsalted butter, melted | 1/4 cup |
 
-## Instructions
+## Directions
 
-1. In a large mixing bowl, whisk together the flour, brown sugar, yeast and salt.
-2. Add warm water to the dry mixture and stir until a dough forms.
-3. Knead the dough on a floured surface until smooth and elastic.
-4. Grease the mixing bowl and place the dough back in it.
-5. Cover the bowl with a damp cloth and let the dough rest for an hour.
-6. Preheat your oven to 220°C.
-7. In a large pot, bring water to a boil, add baking soda and stir until it dissolves.
-8. Divide the dough into 8 equal parts and roll each one to form a long rope.
-9. Create a pretzel shape by forming a U shape and twisting the ends around each other before folding them down.
-10. Drop the pretzels into the pot of boiling water for 30 seconds on each side.
-11. Take the pretzels out of the pot and place them on a baking tray lined with parchment paper.
-12. Sprinkle coarse sea salt on top of the pretzels.
-13. Bake the pretzels in the oven for 12-14 minutes until golden brown.
-14. Melt unsalted butter and brush it onto the pretzels while they are still hot from the oven.
-15. Serve your warm, fresh German pretzels with beer and mustard dip. Enjoy!
+1. In a large mixing bowl, add the flour, yeast, brown sugar, and salt. Mix well.
+2. Slowly add the warm water to the mixture and knead until the dough forms a smooth, elastic ball. Cover the bowl with a clean towel and let the dough rise for about an hour.
+3. Preheat the oven to 425°F and line a baking sheet with parchment paper.
+4. In a large pot, bring 8 cups of water to a boil. Add baking soda to the water and stir.
+5. Divide the dough into 8-10 pieces, depending on how big you want your pretzels. Roll each piece into a long rope about 1/2 inch thick and shape into a pretzel.
+6. Place each pretzel into the boiling water for 30 seconds, then remove with a slotted spoon and place onto the prepared baking sheet.
+7. Sprinkle coarse salt onto each pretzel and bake for about 12-15 minutes, or until the pretzels are golden brown.
+8. Brush the melted butter onto the pretzels when they come out of the oven.
+9. Serve and enjoy your homemade German Pretzels!
+
+Note: You can also serve with your favorite dipping sauce like mustard or cheese sauce.
