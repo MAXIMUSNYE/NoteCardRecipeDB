@@ -1,4 +1,4 @@
-baseURL = "https://mndataleach.github.io/NoteCardRecipeDB/"
+baseURL = "https://mndataleach.github.io/NoteCardRecipeDB/index.html"
 title = "Note Card Recipe DB"
 theme = "papermod"
 languageCode = "en-us"
