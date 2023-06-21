@@ -1,7 +1,7 @@
 
 ---
 title: "Battenberg Cake Recipe"
-date: 2023-06-21T15:53:49
+date: 2023-06-21T16:04:21
 draft: falce
 ---
 
@@ -11,44 +11,38 @@ draft: falce
 
 ### Cake
 
-|     | **Ingredient** | **Amount** |
-| :-: | -------------- | ---------- |
-|  A  | Unsalted butter, softened | 180g |
-|  B  | Golden caster sugar | 180g |
-|  C  | Eggs (room temperature) | 3 |
-|  D  | Self-raising flour | 180g |
-|  E  | Almond extract | 1 tsp |
-|  F  | Pink food coloring | as needed |
+|Ingredients | Quantity |
+|---|---|
+| Butter | 250g |
+| Sugar | 250g |
+| Eggs | 4 |
+| Self-raising flour | 250g |
+| Almond extract | 1 tsp |
+| Red food coloring | a few drops |
 
-### Filling & Decoration
+### Filling
 
-|     | **Ingredient** | **Amount** |
-| :-: | -------------- | ---------- |
-|  G  | Apricot jam | 3-4 tbsp |
-|  H  | Marzipan | 450g |
-|  I  | Icing sugar | as needed |
-|  J  | Water | as needed |
+| Ingredients | Quantity |
+|---|---|
+| Apricot jam | 4 tbsp |
+| Marzipan | 500g |
 
-## Instructions
+## Steps
 
-1. Preheat your oven to 170C degrees.
-2. Grease and line an 18 cm square baking tin with parchment paper.
-3. Cream the butter and sugar together in a mixing bowl until light and fluffy.
-4. Beat the eggs in a separate bowl, and then gradually add it into the butter mixture, mixing well after each addition.
-5. Sift in the flour and fold gently.
-6. Fold in the almond extract.
-7. Divide the batter into half, and add pink food coloring to half of it.
-8. Pour the plain batter into one half of the prepared tin and the pink batter into the other half.
-9. Bake for 25-30 minutes or until a toothpick inserted comes out clean.
-10. Let it cool for 5 minutes, remove from the tin, and let it cool completely.
-11. Trim the edges of both cakes and cut each cake in half lengthways.
-12. Heat up the apricot jam in a small saucepan over low heat until it's runny, then set it aside to cool.
-13. Roll the marzipan to a rectangular shape big enough to wrap the cake.
-14. Lay the pink and white cake strips alternately to create a checkerboard pattern, using the apricot jam as a glue between them.
-15. Brush the marzipan with apricot jam and place the checked sponge along one edge of the marzipan.
-16. Brush more apricot jam on the other three sides and top of the sponge.
-17. Fold the marzipan tightly around the sponge, pressing the edges together to seal it.
-18. Trim off any excess marzipan.
-19. In a bowl, mix together icing sugar and water to your desired consistency.
-20. Transfer to a piping bag and decorate the cake with horizontal and vertical lines.
-21. Serve and enjoy!
+1. Preheat your oven to 180°C. Grease and line a 20cm square cake tin with baking paper.
+2. Begin by making the cake. In a large bowl, cream together the butter and sugar until light and fluffy.
+3. Beat in the eggs, one at a time, making sure each one is fully incorporated. Add in the almond extract and mix well.
+4. Carefully fold in the self-raising flour until the batter is smooth and well combined.
+5. Divide the cake mixture equally between two bowls. In one bowl, add a few drops of red food coloring and mix well until you achieve a deep pink color.
+6. Pour each mixture into its own half of the prepared cake tin. Smooth the surface of each half with a spatula.
+7. Bake for 25-30 minutes, or until the cake is cooked through and golden brown.
+8. Remove the cakes from the tin and leave to cool on a wire rack.
+9. Once the cakes have cooled, carefully trim off the edges to make two even rectangles.
+10. Heat the apricot jam in a small saucepan over low heat until it becomes runny.
+11. Roll out the marzipan on a clean surface lightly dusted with icing sugar to the same size as the two cake rectangles.
+12. Brush one of the cake rectangles with a thin layer of the warmed apricot jam.
+13. Place the other cake rectangle on top of the jam-covered one to make a sandwich.
+14. Spread a thin layer of apricot jam all over the top and sides of the cake sandwich.
+15. Carefully wrap the marzipan around the cake, pressing down on the edges to seal.
+16. Trim any excess marzipan from the edges to give the Battenberg cake a neat finish.
+17. Slice the cake crosswise to reveal the classic pink-and-white checkered pattern. Serve and enjoy!

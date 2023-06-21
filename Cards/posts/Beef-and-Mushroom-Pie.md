@@ -1,61 +1,50 @@
 
 ---
 title: "Beef and Mushroom Pie Recipe"
-date: 2023-06-21T15:54:51
+date: 2023-06-21T16:05:24
 draft: falce
 ---
 
 # Beef and Mushroom Pie Recipe
 
-This savory beef and mushroom pie is a delicious and comforting classic. Perfect for dinner on a chilly night!
+This classic beef and mushroom pie recipe is hearty, savory, and perfect for those chilly fall and winter evenings. Here are the ingredients and steps you'll need to make it happen.
 
 ## Ingredients
+### For the Filling
+| Item           | Quantity       |
+|----------------|----------------|
+| Beef chuck roast | 1 pound |
+| Mushrooms | 1 cup |
+| Onion, chopped | 1 medium |
+| Garlic, minced | 3 cloves |
+| Worcestershire sauce | 2 tablespoons |
+| Beef broth | 1 1/2 cups |
+| Flour | 2 tablespoons |
+| Salt and pepper | To taste |
 
-### Pie Crust
-
-|Ingredient|Amount|
-|--- |--- |
-|All-purpose flour|2 1/2 cups|
-|Unsalted butter, cold and cubed|1 cup|
-|Salt|1 tsp|
-|Ice water|6 to 8 tbsp|
-
-### Filling
-
-|Ingredient|Amount|
-|--- |--- |
-|Beef chuck, cut into small cubes|1 1/2 lbs|
-|Baby bella mushrooms, sliced|8 oz|
-|Onion, chopped|1 medium|
-|Garlic, minced|2 cloves|
-|All-purpose flour|2 tbsp|
-|Beef broth|1 cup|
-|Worcestershire sauce|1 tbsp|
-|Thyme leaves, fresh|1 tsp|
-|Salt and pepper, to taste|
+### For the Pie Crust
+| Item           | Quantity       |
+|----------------|----------------|
+| Flour | 2 cups |
+| Salt | 1 teaspoon |
+| Butter, cubed | 3/4 cup |
+| Ice water | 6-8 tablespoons |
 
 ## Instructions
-
-1. To make the pie crust, combine flour, salt, and butter in a food processor until pea-sized pieces form. Slowly add in ice water until the dough comes together. Divide into two disks, wrap in plastic wrap, and chill for at least 30 minutes.
-
-2. Preheat oven to 375°F.
-
-3. In a large skillet over medium-high heat, brown beef for 5-7 minutes. Remove with a slotted spoon and set aside.
-
-4. In the same skillet, sauté mushrooms, onion, and garlic until tender, about 5 minutes.
-
-5. Sprinkle flour over vegetables and cook for 1 minute.
-
-6. Slowly stir in beef broth and Worcestershire sauce. Bring to a boil and simmer for 2 minutes or until thickened.
-
-7. Add the beef back into the skillet and stir in thyme leaves, salt, and pepper.
-
-8. Roll out one pie crust disk and place into a 9-inch pie dish. Pour in the beef mixture.
-
-9. Roll out the second pie crust disk and place on top of the filling. Trim the excess crust and crimp the edges.
-
-10. Cut slits in the top of the crust and brush with egg wash.
-
-11. Bake for 45-50 minutes or until the crust is golden brown.
-
-12. Let it cool for a few minutes before serving. Enjoy!
+1. Preheat the oven to 400°F (200°C).
+2. Begin by preparing the filling. Cut the beef into bite-size cubes and season with salt and pepper.
+3. Heat a large skillet over medium-high heat and add the beef. Cook until browned on all sides, then remove from pan and set aside.
+4. In the same skillet, add the chopped onions and sauté for 2-3 minutes until they become translucent.
+5. Add the minced garlic and mushrooms and cook for another 2-3 minutes until the mushrooms have browned and the garlic is fragrant.
+6. Sprinkle the flour over the mushroom and onion mixture, and stir to coat.
+7. Pour in Worcestershire sauce and beef broth, and stir until the mixture thickens.
+8. Return the beef to the skillet, and stir to coat with the sauce mixture.
+9. Let simmer for 10-15 minutes, until the sauce has thickened and the beef is cooked through.
+10. Roll out the pie crust on a lightly floured surface and cut into an 11-inch circle.
+11. Place the pie crust in a 9-inch pie dish.
+12. Add the beef and mushroom filling to the pie crust.
+13. Roll out the remaining pie crust on a lightly floured surface and make a 10-inch circle.
+14. Place the top pie crust over the filling and pinch the edges of the top and bottom crust together to seal.
+15. Cut several slits in the top of the crust to allow steam to escape while baking.
+16. Place the pie in the oven and bake for 35-40 minutes, or until the crust is golden brown.
+17. Remove the pie from the oven and let it rest for 5-10 minutes before serving. Enjoy!

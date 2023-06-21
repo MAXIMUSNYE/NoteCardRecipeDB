@@ -1,50 +1,57 @@
 
 ---
 title: "Baked Ziti Recipe"
-date: 2023-06-21T15:52:49
+date: 2023-06-21T16:03:15
 draft: falce
 ---
 
 # Baked Ziti Recipe
 
-This classic Italian dish is a favorite for many. With layers of pasta, sauce, and cheese, this baked ziti recipe is sure to be a crowd pleaser.
+Looking for a hearty and satisfying meal that's easy to make? Look no further than this classic baked ziti recipe! It's perfect for a cozy weeknight dinner or even a special occasion. Here's what you'll need:
 
 ## Ingredients
 
-### Pasta
+### Ziti
 
-|  Ingredient | Quantity |
-| :---------:|:--------:|
-| ziti pasta | 1 pound  |
-|    water   | 4 quarts |
-|    salt    | 1 tablespoon |
+| Ingredient | Amount |
+|---|---|
+| Ziti pasta | 1 pound |
+| Salt | 1 tablespoon |
 
-### Sauce
+### Meat sauce
 
-|   Ingredient  | Amount      |
-|:-------------:|:-----------:|
-| olive oil      | 2 tablespoons |
-| garlic         | 3 cloves   |
-| tomato sauce   | 28 ounces  |
-| crushed tomatoes | 28 ounces |
-| dried basil    | 1 tablespoon |
-| salt           | 1 teaspoon |
-| black pepper   | 1/4 teaspoon |
+| Ingredient | Amount |
+|---|---|
+| Ground beef | 1 pound |
+| Olive oil | 2 tablespoons |
+| Onion, diced | 1 medium |
+| Garlic, minced | 2 cloves |
+| Tomato sauce | 24 ounces |
+| Italian seasoning | 1 tablespoon |
+| Salt | 1 teaspoon |
+| Pepper | 1/2 teaspoon |
 
-### Cheese
+### Cheese blend
 
-|   Ingredient  | Amount          |
-|:-------------:|:---------------:|
-| ricotta cheese | 15 ounces      |
-| mozzarella cheese | 2 cups, shredded |
-| parmesan cheese | 1/2 cup, grated |
+| Ingredient | Amount |
+|---|---|
+| Ricotta cheese | 15 ounces |
+| Mozzarella cheese, shredded | 2 cups |
+| Parmesan cheese, grated | 1/2 cup |
+| Egg | 1 large |
+| Salt | 1/2 teaspoon |
+| Pepper | 1/4 teaspoon |
 
-## Steps
+## Instructions
 
-1. Preheat the oven to 375°F.
-2. Bring a large pot of water to a boil. Add 1 tablespoon of salt to the water and stir to dissolve. Add the ziti pasta and cook until al dente, according to the package instructions. Drain the pasta and rinse under cold water to stop the cooking.
-3. In a large saucepan, heat 2 tablespoons of olive oil over medium heat. Add 3 cloves of minced garlic and cook for 1 minute, or until fragrant. Add 28 ounces of tomato sauce, 28 ounces of crushed tomatoes, 1 tablespoon of dried basil, 1 teaspoon of salt, and 1/4 teaspoon of black pepper. Bring to a simmer and cook for 10 minutes, or until the sauce has thickened.
-4. In a large bowl, mix together 15 ounces of ricotta cheese and 1/2 cup of grated parmesan cheese.
-5. In a 9x13 inch baking dish, spread 1/3 of the tomato sauce on the bottom of the dish. Add 1/2 of the cooked ziti pasta on top of the sauce. Top the pasta with 1/2 of the cheese mixture. Repeat these layers, ending with a layer of tomato sauce and sprinkling 2 cups of shredded mozzarella on top.
-6. Cover the baking dish with aluminum foil and bake for 25 minutes. Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and the edges are golden brown.
-7. Let the baked ziti cool for 5-10 minutes before serving. Enjoy!
+1. Preheat oven to 375°F.
+2. Cook ziti according to package directions in a large pot of salted boiling water until al dente.
+3. While the pasta is cooking, in a large skillet over medium heat, cook ground beef in olive oil until browned.
+4. Add onion and garlic to the skillet and cook for an additional 3-5 minutes or until onions are translucent.
+5. Stir in tomato sauce, Italian seasoning, salt, and pepper. Reduce heat and allow to simmer for 10 minutes.
+6. In a large mixing bowl, combine ricotta cheese, shredded mozzarella cheese, grated Parmesan cheese, egg, salt, and pepper.
+7. Once the ziti pasta is cooked and drained, add it to the cheese mixture and mix well.
+8. In a 9x13 inch baking dish, layer 1/2 of the ziti mixture, followed by 1/2 of the meat sauce, and repeat until all ingredients are used up.
+9. Cover the baking dish with foil and bake in the preheated oven for 25 minutes.
+10. Remove foil and continue to bake for an additional 25 minutes or until the top is golden brown and bubbly.
+11. Remove from oven, allow to cool for a few minutes, and serve hot. Enjoy!

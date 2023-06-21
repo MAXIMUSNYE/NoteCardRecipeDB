@@ -1,71 +1,74 @@
 
 ---
 title: "Baba au Rhum Recipe"
-date: 2023-06-21T15:51:21
+date: 2023-06-21T16:01:48
 draft: falce
 ---
 
 # Baba au Rhum Recipe
 
-Baba au Rhum is a classic French dessert made with a sweet yeast cake soaked in rum syrup and topped with whipped cream and fruit. This recipe makes a delicious and decadent treat that's sure to impress.
+This classic French dessert is a rich, moist cake soaked in a rum syrup. It's perfect for impressing guests at your next dinner party!
 
 ## Ingredients
 
-### For the Baba:
+### For the Brioche Dough:
 
-| Quantity | Ingredient |
-|----------|------------|
-| 2 1/4 cups | all-purpose flour |
-| 1/4 cup | sugar |
-| 1/2 teaspoon | salt |
-| 1 tablespoon | active dry yeast |
-| 1/2 cup | warm water |
-| 3 | eggs |
-| 1/2 cup | unsalted butter, softened |
+|Quantity|Ingredient|
+|---|---|
+|1 1/2 cups|All-purpose flour|
+|3 tablespoons|Granulated sugar|
+|1 tablespoon|Instant dry yeast|
+|1/2 teaspoon|Salt|
+|3|Eggs, beaten|
+|8 tablespoons|Unsalted butter, softened|
 
 ### For the Rum Syrup:
 
-| Quantity | Ingredient |
-|----------|------------|
-| 2 cups | water |
-| 2 cups | sugar |
-| 1 cup | dark rum |
+|Quantity|Ingredient|
+|---|---|
+|1 1/2 cups|Water|
+|1 1/2 cups|Granulated sugar|
+|1/2 cup|Rum|
 
 ### For Serving:
 
-| Quantity | Ingredient |
-|----------|------------|
-| 1 cup | whipped cream |
-| 2 cups | fresh fruit (berries, sliced peaches, etc.) |
+|Quantity|Ingredient|
+|---|---|
+|1 cup|Sweetened whipped cream|
+|1/4 cup|Sliced almonds|
 
 ## Instructions
 
-1. Preheat your oven to 375°F (190°C).
+1. In a large mixing bowl, combine the flour, sugar, yeast, and salt. Mix well.
 
-2. In a large mixing bowl, combine the flour, sugar, and salt.
+2. Add in the eggs and stir until the dough comes together.
 
-3. In a separate bowl, dissolve the yeast in the warm water.
+3. Cut the butter into small pieces and mix it into the dough until it becomes smooth and elastic.
 
-4. Add the yeast mixture to the dry ingredients and mix until a dough forms.
+4. Turn out the dough onto a floured surface and knead for 10 minutes until it is glossy and elastic.
 
-5. Add the eggs one at a time and mix until well combined.
+5. Place the dough in a greased bowl and cover with a clean towel. Allow the dough to rise in a warm place for 1 hour.
 
-6. Add the softened butter and mix until the dough becomes smooth and elastic, about 5-7 minutes.
+6. Preheat the oven to 350°F.
 
-7. Cover the dough with a clean kitchen towel and let it rise in a warm place for about 30 minutes.
+7. Grease a brioche pan or a muffin tin.
 
-8. Grease a 9-inch (23-cm) cake pan and add the dough to it. Smooth the surface with a spatula.
+8. Divide the dough into 8-10 even pieces and shape them into small balls. Place the dough balls into the greased pan.
 
-9. Bake for 30-35 minutes or until golden brown.
+9. Cover the pan with a clean towel and allow the dough to rise again in a warm place for 30 minutes.
 
-10. While the cake is baking, make the rum syrup. Add the water and sugar to a saucepan and bring to a boil. Reduce the heat and simmer for 10 minutes. Remove from heat and add the rum.
+10. Bake the brioche for 20-25 minutes, or until it is golden brown.
 
-11. When the cake is done, remove it from the oven and place it on a wire rack to cool.
+11. While the brioche is baking, make the rum syrup. In a medium saucepan, bring the water and sugar to a boil and simmer for 5 minutes. Remove the syrup from the heat and stir in the rum.
 
-12. Once the cake has cooled, poke several holes in it with a toothpick and pour the rum syrup over it, allowing it to soak in.
+12. Once the brioche is done, remove it from the oven and allow it to cool.
 
-13. Let the cake sit for at least an hour before serving.
+13. Using a skewer or toothpick, poke holes all over the brioche.
 
-14. When you're ready to serve, top the cake with whipped cream and fresh fruit. 
+14. Slowly pour the rum syrup over the entire brioche, allowing it to soak in.
 
-Enjoy your delicious Baba au Rhum!
+15. Place the brioche in the refrigerator and allow it to chill for at least an hour.
+
+16. Serve the baba au rhum with sweetened whipped cream and sliced almonds on top.
+
+Enjoy this decadent and boozy dessert!

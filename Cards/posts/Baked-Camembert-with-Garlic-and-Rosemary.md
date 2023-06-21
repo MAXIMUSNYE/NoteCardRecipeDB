@@ -1,41 +1,47 @@
 
 ---
 title: "Baked Camembert with Garlic and Rosemary Recipe"
-date: 2023-06-21T15:52:13
+date: 2023-06-21T16:02:43
 draft: falce
 ---
 
 # Baked Camembert with Garlic and Rosemary Recipe
 
-This is a delicious and easy-to-make appetizer that is perfect for any occasion. The combination of garlic and rosemary with melted Camembert cheese is irresistible. Here is how to make it:
+This baked camembert recipe is perfect for cheese lovers who enjoy a bit of garlic and rosemary flavor, and it's super easy to make!
+
 
 ## Ingredients
 
-### For the Camembert:
+### Baked Camembert:
 
-|   Ingredients   	| Quantity 	|
-|:----------------:	|:--------:	|
-| 1 Camembert cheese 	|    1    	|
+| Ingredient | Quantity |
+| --- | --- |
+| Camembert cheese | 1 (250 g) |
+| Garlic cloves, thinly sliced | 2 |
+| Fresh rosemary sprigs | 3 |
+| Olive oil | 1 tbsp |
+| Salt and pepper | To taste |
 
-### For the Garlic and Rosemary Topping:
 
-|  Ingredients  	| Quantity 	|
-|:-------------:	|:--------:	|
-|  2 garlic cloves 	|     2    	|
-|  2 tbsp butter  	|   2 tbsp 	|
-|   1 sprig rosemary 	|     1    	|
+### Serving Suggestions:
 
-## Directions
+| Ingredient | Quantity |
+| --- | --- |
+| Baguette, sliced | 1 |
+| Apples, sliced | 1 |
+| Grapes | 1 cup |
+| Walnuts | 1/2 cup |
 
-1. Preheat the oven to 350°F (180°C).
-2. Remove the Camembert cheese from its packaging and place it back into its box with the top cut off to prevent the cheese from spilling out.
-3. Using a sharp knife, make shallow cuts on the top of the cheese.
-4. In a small pan, melt the butter over medium heat.
-5. Add the minced garlic and cook for about 1 minute or until fragrant.
-6. Strip the leaves from the rosemary sprig and chop them finely.
-7. Add the chopped rosemary leaves to the garlic and butter mixture and cook for another minute.
-8. Spread the garlic and rosemary mixture over the top of the Camembert cheese.
-9. Place the cheese in its box onto a baking sheet and bake in the preheated oven for 15-20 minutes or until the cheese is melted and bubbly.
-10. Serve immediately with sliced bread or crackers for dipping and enjoy!
 
-Enjoy your delicious Baked Camembert with Garlic and Rosemary!
+## Instructions
+
+1. Preheat your oven to 350°F (180°C).
+2. Remove the Camembert cheese from its packaging and place it on a baking dish or oven-proof dish.
+3. With a sharp knife, cut a few slits into the cheese. Insert the thinly sliced garlic into the slits.
+4. Remove the rosemary leaves from the sprigs and sprinkle them over the cheese.
+5. Drizzle the olive oil over the cheese and season with salt and pepper to taste.
+6. Bake the cheese in the oven for 15-20 minutes, or until it has turned golden brown and bubbly.
+7. Remove the cheese from the oven and let it cool for 1-2 minutes.
+8. Serve baked camembert hot with sliced baguette, sliced apples, grapes, and walnuts for a delicious and simple appetizer or starter.
+
+Enjoy!

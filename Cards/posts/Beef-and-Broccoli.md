@@ -1,50 +1,56 @@
 
 ---
 title: "Beef and Broccoli Recipe"
-date: 2023-06-21T15:54:33
+date: 2023-06-21T16:05:03
 draft: falce
 ---
 
 # Beef and Broccoli Recipe
 
-This easy beef and broccoli recipe is perfect for a quick and delicious dinner. Tender beef is paired with flavorful broccoli, and the whole dish is coated in a savory brown sauce that's perfect for drizzling over rice. Here's how to make it:
+This recipe is a delicious and easy way to make a classic Chinese dish in the comfort of your own home. Using only a few simple ingredients, this dish can be made in under 30 minutes.
 
-## Ingredients:
+## Ingredients
 
-### For the Beef:
-| Ingredients   | Quantity       |
-| ------------- | -------------- |
-| Beef Sirloin  | 1 pound        |
-| Cornstarch    | 2 tablespoons |
-| Soy Sauce     | 2 tablespoons |
-| Vegetable Oil | 1 tablespoon  |
+### For the beef
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1 lb | Flank steak, sliced thinly |
+| 1 tbsp | Soy sauce |
+| 1 tbsp | Cornstarch |
+| 1 tbsp | Vegetable oil |
 
-### For the Broccoli:
-| Ingredients        | Quantity       |
-| ------------------ | -------------- |
-| Broccoli Florets   | 2 cups         |
-| Water              | 3 cups         |
-| Salt               | 1 teaspoon     |
+### For the broccoli
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 2 cups | Broccoli florets |
+| 1/2 cup | Water |
+| 1 tsp | Cornstarch |
+| 1 tsp | Vegetable oil |
 
-### For the Stir Fry Sauce:
-| Ingredients     | Quantity       |
-| --------------- | -------------- |
-| Soy Sauce       | 1/4 cup        |
-| Oyster Sauce    | 1/4 cup        |
-| Honey           | 1 tablespoon   |
-| Garlic          | 2 cloves       |
-| Cornstarch      | 1 tablespoon  |
-| Water           | 1/4 cup        |
+### For the sauce
+| Quantity | Ingredient |
+| -------- | ---------- |
+| 1/4 cup | Soy sauce |
+| 2 tbsp | Brown sugar |
+| 2 cloves | Garlic, minced |
+| 2 tbsp | Cornstarch |
 
-## Instructions:
+## Instructions
 
-1. Cut the beef into thin strips, mix with cornstarch and soy sauce.
-2. Heat the oil in a large skillet over high heat. When the pan is hot, add the beef and cook for 3-4 minutes or until browned on all sides.
-3. Remove beef from skillet and set aside.
-4. In the same skillet, add the broccoli, water and salt. Cover and cook until the broccoli is tender, about 3-4 minutes. Remove broccoli and discard any remaining water.
-5. In a small bowl, whisk together the soy sauce, oyster sauce, honey, garlic, cornstarch, and water.
-6. Pour the sauce into the skillet and cook until it thickens, stirring constantly. This should take 1-2 minutes.
-7. Add the beef and broccoli back into the skillet and mix with the sauce until everything is evenly coated.
-8. Serve hot with rice.
+1. In a medium size mixing bowl, mix together the sliced beef, soy sauce, and cornstarch. Give it a good stir until well combined.
 
-Enjoy your homemade beef and broccoli!
+2. In a large skillet, heat the vegetable oil over medium-high heat. Add the beef to the skillet and stir fry for 2-3 minutes or until it turns brown. Remove the beef from the skillet and set it aside.
+
+3. In the same skillet, add the broccoli florets and water. Steam the broccoli for 2-3 minutes or until it becomes tender-crisp.
+
+4. In a small bowl, mix together the cornstarch and vegetable oil. Set it aside.
+
+5. In another small bowl, mix together the soy sauce, brown sugar, minced garlic, and cornstarch. Stir to combine.
+
+6. Add the beef back into the skillet with the broccoli and pour the soy sauce mixture over the top. Stir well to coat the beef and broccoli.
+
+7. Pour the cornstarch and oil mixture over the top of the beef and broccoli. Stir constantly until the sauce has thickened and the beef and broccoli are fully coated.
+
+8. Serve hot with rice or noodles.
+
+Enjoy your delicious beef and broccoli dish!

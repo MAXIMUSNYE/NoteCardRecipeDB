@@ -1,44 +1,45 @@
 
 ---
 title: "BBQ Chicken Pizza Recipe"
-date: 2023-06-21T15:54:00
+date: 2023-06-21T16:04:35
 draft: falce
 ---
 
 # BBQ Chicken Pizza Recipe
 
-This BBQ Chicken Pizza recipe is perfect for a quick and easy meal that the whole family will enjoy. The combination of tangy BBQ sauce, grilled chicken, and melted cheese on a crispy crust is simply irresistible. 
+This BBQ chicken pizza recipe is perfect for a quick and easy dinner. With a crispy crust, juicy chicken, and tangy BBQ sauce, it's sure to please everyone at the dinner table.
 
 ## Ingredients
+
 ### Pizza Dough
-| Quantity | Ingredient   |
-|----------|--------------|
-| 1 1/2 cups  | All-purpose flour   |
-| 1 1/2 teaspoons  | Active dry yeast   |
-| 1/2 teaspoon  | Salt   |
-| 1/2 teaspoon  | Sugar   |
-| 3/4 cup  | Warm water   |
-| 1 tablespoon  | Olive oil   |
+
+| Quantity | Ingredient     |
+| -------- | -------------- |
+| 1 lb     | Pizza dough    |
+| 1 tbsp   | Olive oil      |
 
 ### Toppings
-| Quantity | Ingredient   |
-|----------|--------------|
-| 1/2 cup | BBQ sauce |
-| 2 cups | Cooked chicken (shredded or chopped) |
-| 1 cup | Shredded mozzarella cheese |
-| 1/4 cup | Red onion (thinly sliced) |
-| 1/4 cup | Cilantro (chopped) |
+
+| Quantity | Ingredient             |
+| -------- | ----------------------|
+| 1 cup    | Shredded cooked chicken|
+| 1/2 cup  | BBQ sauce              |
+| 1/2 cup  | Red onion, thinly sliced|
+| 1/2 cup  | Shredded mozzarella cheese |
+| 1/2 cup  | Shredded cheddar cheese |
 
 ## Steps
-1. Preheat the oven to 450°F (230°C).
-2. In a large bowl, combine the flour, yeast, salt, and sugar. Add the warm water and olive oil and mix until a dough forms.
-3. On a floured surface, knead the dough for 5-10 minutes until it becomes smooth and elastic.
-4. Roll the dough out into a 14-inch circle and transfer it to a lightly greased pizza pan.
-5. Spread the BBQ sauce evenly over the dough, leaving a small border around the edges.
-6. Add the shredded chicken on top of the sauce.
-7. Sprinkle the mozzarella cheese over the chicken, followed by the sliced red onion.
-8. Bake in the oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.
-9. Remove from the oven and sprinkle with chopped cilantro.
-10. Slice and serve hot.
 
-Enjoy your delicious homemade BBQ Chicken Pizza with your loved ones!
+1. Preheat the oven to 425°F (218°C).
+2. Roll out the pizza dough on a floured surface to your desired thickness and shape.
+3. Brush the surface of the rolled-out dough with olive oil.
+4. Spread the BBQ sauce over the olive oil
+5. Scatter the shredded chicken over the sauced dough.
+6. Add the sliced onion, distributing them evenly over the pizza.
+7. Top the pizza evenly with the shredded mozzarella and cheddar cheese.
+8. Carefully slide the pizza onto the preheated oven rack or pizza stone.
+9. Bake for 12 to 15 minutes, or until the cheese is melted and bubbly.
+10. Remove the pizza from the oven and cool for a few minutes.
+11. Serve hot and enjoy!
+
+**Note:** You can customize the toppings to your liking by adding vegetables like peppers, mushrooms, or spinach.

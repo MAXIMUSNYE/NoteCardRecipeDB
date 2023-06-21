@@ -1,50 +1,46 @@
 
 ---
 title: "Austrian Linzer Cookies Recipe"
-date: 2023-06-21T15:51:00
+date: 2023-06-21T16:01:26
 draft: falce
 ---
 
 # Austrian Linzer Cookies Recipe
 
-These traditional Austrian cookies are a holiday season favorite. They are made of two almond-flavored dough layers with a delicious jam filling in between. They are best served with a hot cup of tea. Follow these easy steps to make your own delicious batch!
+This classic Austrian dessert is a buttery and nutty treat perfect for the holidays. The dough is filled with raspberry jam, adding a burst of flavor in each bite.
 
 ## Ingredients
-
-### Dough
-
-| Ingredient | Quantity |
-|------------|----------|
-| All-purpose flour | 2 cups |
-| Almond flour | 1 cup |
-| Salt | 1/4 tsp |
-| Baking powder | 1/2 tsp |
-| Unsalted butter | 1 cup, softened |
-| Granulated sugar | 3/4 cup |
-| Egg yolks | 2 |
-| Lemon zest | 1 tsp |
+### Pastry
+| Quantity | Ingredients |
+| ------ | --------- |
+| 2 cups | All-purpose flour |
+| 1 cup | Ground almonds |
+| 1/2 tsp | Ground cinnamon |
+| 1/4 tsp | Ground cloves |
+| 1 cup | Unsalted butter, room temperature |
+| 2/3 cup | Granulated sugar |
+| 2 | Egg yolks |
+| 1 tsp | Vanilla extract |
 
 ### Filling
+| Quantity | Ingredients |
+| ------ | --------- |
+| 1 cup | Raspberry jam |
 
-| Ingredient | Quantity |
-|------------|----------|
-| Raspberry jam | 1/2 cup |
-| Powdered sugar | 1/4 cup |
+### Topping
+| Quantity | Ingredients |
+| ------ | --------- |
+| 1/2 cup | Powdered sugar |
 
-## Steps
-
-1. Preheat your oven to 350°F (180°C) and line a baking sheet with parchment paper.
-2. In a large bowl, whisk together the all-purpose flour, almond flour, salt, and baking powder.
-3. In another bowl, use an electric mixer to beat together the butter and granulated sugar until light and fluffy.
-4. Add the egg yolks and lemon zest and continue to beat until well combined.
-5. Add the flour mixture to the butter mixture and stir until a dough is formed.
-6. Divide the dough into two portions, wrap in cling film, and chill for 30 minutes.
-7. Roll out one portion of the dough between two sheets of parchment paper to a thickness of about 1/4 inch.
-8. Use a 2-inch cookie cutter to cut out circles, and place them on the prepared baking sheet about 1 inch apart.
-9. Repeat the process with the second portion of the dough but use a smaller cookie cutter to cut out the centers of the cookies.
-10. Bake both cookie sheets in the preheated oven for about 12-15 minutes or until just golden.
-11. Allow the cookies to cool slightly before spreading the raspberry jam onto the whole cookies.
-12. Dust the cut-out cookies with powdered sugar.
-13. Sandwich the cookies together and serve!
-
-Enjoy your homemade Austrian Linzer Cookies!
+## Instructions
+1. Preheat the oven to 350°F and line two baking sheets with parchment paper.
+2. In a medium bowl, whisk together flour, ground almonds, cinnamon, and cloves. Set aside.
+3. In a large bowl, beat together butter and sugar until light and fluffy. Add in egg yolks and vanilla extract, continue beating until well combined.
+4. Add in flour mixture and stir until just combined. The dough will be crumbly but should hold together when pinched between your fingers.
+5. Divide the dough in half and roll each half out on a lightly floured surface to a little less than 1/4 inch thickness. Using a cookie cutter, cut out the dough into desired shapes.
+6. Place the cookies on the baking sheets and use a smaller cookie cutter to cut out the centers of half of the cookies.
+7. Bake in the preheated oven for 12-15 minutes or until the edges are lightly golden.
+8. Allow the cookies to cool completely on a wire rack before assembly.
+9. Once cooled, spread a thin layer of raspberry jam on the solid cookies and top with the cookies with the center cut out.
+10. Lastly, dust powdered sugar on the cookies with the center cut out to complete the look of the Austrian Linzer Cookies.
+11. Serve and enjoy!

@@ -1,7 +1,7 @@
 
 ---
 title: "Baked Salmon Recipe"
-date: 2023-06-21T15:52:27
+date: 2023-06-21T16:02:55
 draft: falce
 ---
 
@@ -12,33 +12,29 @@ draft: falce
 ### Salmon
 
 | Ingredient | Quantity |
-| --- | --- |
-| Salmon fillet | 1 pound |
-| Salt | 1/2 teaspoon |
-| Black pepper | 1/4 teaspoon |
-| Garlic powder | 1/4 teaspoon |
-| Paprika | 1/4 teaspoon |
+|------------|----------|
+| Salmon fillet | 1 lb |
+| Salt | 1 tsp |
+| Black pepper | 1/2 tsp |
 
-### Lemon Butter Sauce
+### Lemon-Butter Sauce
 
 | Ingredient | Quantity |
-| --- | --- |
-| Butter | 1/4 cup |
-| Lemon juice | 2 tablespoons |
-| Garlic, minced | 1 clove |
-| Salt | 1/4 teaspoon |
-| Black pepper | 1/8 teaspoon |
+|------------|----------|
+| Butter, melted | 1/4 cup |
+| Lemon juice | 2 tbsp |
+| Garlic, minced | 1 tsp |
+| Salt | 1/4 tsp |
+| Black pepper | 1/4 tsp |
 
-## Instructions
+## Steps
 
-1. Preheat the oven to 375°F (190°C).
-2. Mix the salt, black pepper, garlic powder, and paprika in a small bowl.
-3. Place the salmon fillet skin-side down on a baking sheet lined with parchment paper.
-4. Sprinkle the seasoning mixture over the salmon.
-5. Bake the salmon for 12-15 minutes or until it's cooked through and flakes easily.
-6. While the salmon is baking, melt the butter in a small saucepan over medium heat.
-7. Add the lemon juice, minced garlic, salt, and black pepper to the melted butter, stirring continuously until well combined.
-8. Remove the salmon from the oven and let it rest for 2-3 minutes before serving.
-9. Drizzle the lemon butter sauce over the salmon and enjoy!
-
-**Note:** You can also garnish the salmon with fresh herbs or lemon wedges for an extra pop of flavor.
+1. Preheat the oven to 375°F (190°C). 
+2. Season the salmon fillet with salt and pepper on both sides.
+3. Place the salmon fillet on a baking dish or sheet.
+4. Bake the salmon for 12-15 minutes, or until it flakes easily with a fork.
+5. While the salmon is baking, make the lemon-butter sauce.
+6. In a small bowl, combine melted butter, lemon juice, minced garlic, salt, and black pepper. Mix well.
+7. Once the salmon is done, remove it from the oven and let it cool for a minute or two.
+8. Drizzle the lemon-butter sauce over the salmon fillet.
+9. Serve the baked salmon warm with any sides of your choice. Enjoy!

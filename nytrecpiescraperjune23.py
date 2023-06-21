@@ -1,4 +1,5 @@
-#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
+#sk-V9iuGhZEyJVOqV38Rd4UT3B
+#lbkFJeThJkyjtljcjzj3KRJtA
 #wright an article explaining how the technology of avalanche transceivers works but please just print the article only no intro
 import requests
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ import markdown
 from datetime import datetime
 import ssl
 
-openai.api_key = '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'
+openai.api_key = 's'
 
 
 def chat(dish):
@@ -76,6 +77,7 @@ food_list = ['Chicken Parmesan', 'Apple Strudel', 'Apple Tarte Tatin', 'Apricot 
 def convert_md(md,dish):
 
     index = str(food_list.index(dish))
+    index2 = index
     hyfdish =  dish.strip()
     link = f"/{hyfdish}  #{index}"
 
@@ -103,12 +105,12 @@ draft: falce
 
 
 
-
+    print(index2)
     return newMD
 
 def run_posts():
 
-    for dish in food_list[5:20]:
+    for dish in food_list[152:300]:
         md = chat(dish)
         rcp = convert_md(md,dish)
         hydish = dish.replace(" ", "-")
