@@ -10,7 +10,7 @@ import markdown
 from datetime import datetime
 import ssl
 
-openai.api_key = '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'
+openai.api_key = 'sk-OMsjsp1hfLyJSTqtkIUh'# T3BlbkFJbxA74BccHP8mpYAZ1n0e'
 
 
 def chat(dish):
@@ -93,7 +93,7 @@ def convert_md(md,dish):
     
     newMD = f"""
 ---
-title: "Simple Banana Bread Recipe"
+title: "{dish} Recipe"
 date: {dt}
 draft: falce
 ---
@@ -104,23 +104,23 @@ draft: falce
 
 
 
-    return 
+    return newMD
 
 def run_posts():
-    cards = []
+
     for dish in food_list[0:4]:
         md = chat(dish)
-        xml = convert_md(md,dish)
-        
-        cards.append(xml)
+        rcp = convert_md(md,dish)
+        hydish = dish.replace(" ", "-")
+
 
         # Writing the markdown content to a text document
-    with open("markdown.txt", "w") as file:
-        for card in cards:    
-            file.write(card)
+        with open(f"Cards/posts/{hydish}.md", "w") as file:
+    
+              file.write(rcp)
 
 
-#run_posts()
+run_posts()
 
 
 
