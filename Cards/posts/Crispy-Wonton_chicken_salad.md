@@ -49,4 +49,4 @@ draft: falce
 8. In a small bowl, whisk together the mayonnaise, soy sauce, honey, rice vinegar, sesame oil, and Sriracha until well combined to make the sauce.
 9. In a large bowl, toss together the mixed greens, red cabbage, carrots, cucumber, red bell pepper, scallions, and cilantro.
 10. Add the chicken to the salad and drizzle the sauce over the top.
-11. Serve with wonton strips on top for added crunch.
+11. Serve with some wonton strips on top for added crunch.
