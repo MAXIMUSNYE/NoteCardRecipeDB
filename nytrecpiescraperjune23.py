@@ -27,7 +27,7 @@ def chat(dish):
     return mdr["content"]
 
 
-chat("banana bread")
+#chat("banana bread")
 
 #{"role": "system", "content": "You are a writer for a fun, quirky, and informative website."},
 #        {"role": "user", "content": "make a Crispy wonton chicken salad reacapie with ingredients for the sause and the salad put ingredeints in tables, and use a numbered list or bullets for the steps.  Format everything in Markdown"}
@@ -148,4 +148,4 @@ def run_posts():
 
 
 
-print(markdown_content)
+#print(markdown_content)

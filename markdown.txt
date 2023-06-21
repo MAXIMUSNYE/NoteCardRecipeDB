@@ -1,0 +1,519 @@
+<item>
+  <title><![CDATA[Chicken Parmesan Recipe #0]]></title>
+  <link>https://reeldataorg.wordpress.com/Chicken-Parmesan-0</link>
+  <pubDate>Tue, 20 Jun 2023 18:19:48 +0000</pubDate>
+  <dc:creator>maximusnye</dc:creator>
+  <guid isPermaLink="false">https://reeldataorg.wordpress.com/?p=17</guid>
+  <description/>
+  <content:encoded><<!DOCTYPE html>
+<html>
+<head>
+	<title>Chicken Parmesan Recipe</title>
+</head>
+<body>
+	<h1>Chicken Parmesan Recipe</h1>
+
+	<h2>Ingredients</h2>
+	<h3>For the Chicken</h3>
+	<table>
+		<tr>
+			<th>Ingredient</th>
+			<th>Quantity</th>
+		</tr>
+		<tr>
+			<td>Boneless, skinless chicken breasts</td>
+			<td>4</td>
+		</tr>
+		<tr>
+			<td>All-purpose flour</td>
+			<td>1 cup</td>
+		</tr>
+		<tr>
+			<td>Eggs</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>Panko bread crumbs</td>
+			<td>2 cups</td>
+		</tr>
+		<tr>
+			<td>Grated Parmesan cheese</td>
+			<td>1/2 cup</td>
+		</tr>
+		<tr>
+			<td>Salt</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Pepper</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Olive oil</td>
+			<td>1/2 cup</td>
+		</tr>
+	</table>
+
+	<h3>For the Sauce</h3>
+	<table>
+		<tr>
+			<th>Ingredient</th>
+			<th>Quantity</th>
+		</tr>
+		<tr>
+			<td>Crushed tomatoes</td>
+			<td>28 oz can</td>
+		</tr>
+		<tr>
+			<td>Garlic, minced</td>
+			<td>3 cloves</td>
+		</tr>
+		<tr>
+			<td>Dried basil</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Salt</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Pepper</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Olive oil</td>
+			<td>2 tbsp</td>
+		</tr>
+	</table>
+
+	<h3>For the Cheese Topping</h3>
+	<table>
+		<tr>
+			<th>Ingredient</th>
+			<th>Quantity</th>
+		</tr>
+		<tr>
+			<td>Shredded mozzarella cheese</td>
+			<td>1 cup</td>
+		</tr>
+		<tr>
+			<td>Shredded Parmesan cheese</td>
+			<td>1/2 cup</td>
+		</tr>
+	</table>
+
+	<h2>Steps</h2>
+	<ol>
+		<li>Preheat the oven to 425°F.</li>
+		<li>Pound chicken breasts to an even 1/2 inch thickness.</li>
+		<li>Set up a breading station with three shallow dishes: one with flour, one with beaten eggs, and one with a mixture of panko breadcrumbs and grated Parmesan cheese.</li>
+		<li>Dip each chicken breast first in flour, then in egg, and finally in the breadcrumb mixture, pressing the mixture onto the chicken to ensure a thick coating.</li>
+		<li>Heat the olive oil in a large oven-safe skillet over medium-high heat. Add the chicken breasts and cook until golden brown on both sides, about 3-4 minutes per side.</li>
+		<li>While the chicken is cooking, prepare the sauce. In a saucepan, heat the olive oil over medium heat. Add the garlic and cook until fragrant, about 1-2 minutes. Add the crushed tomatoes, basil, salt, and pepper, stirring to combine. Let the sauce simmer for 10 minutes.</li>
+		<li>Once the chicken is cooked, spoon the sauce over the chicken breasts, making sure to cover them completely.</li>
+		<li>Sprinkle the shredded mozzarella and Parmesan cheese on top of the sauce.</li>
+		<li>Bake the chicken in the preheated oven for 20-25 minutes, until the cheese is melted and bubbling.</li>
+		<li>Remove from the oven and let cool for 5 minutes before serving.</li>
+	</ol>
+</body>
+</html>></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2023-06-20 11:19:48</wp:post_date>
+  <wp:post_date_gmt>2023-06-20 18:19:48</wp:post_date_gmt>
+  <wp:post_modified>2023-06-20 11:21:08</wp:post_modified>
+  <wp:post_modified_gmt>2023-06-20 18:21:08</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>17</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1687285191]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[85078389086]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_pingme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_encloseme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Apple Strudel Recipe #1]]></title>
+  <link>https://reeldataorg.wordpress.com/Apple-Strudel-1</link>
+  <pubDate>Tue, 20 Jun 2023 18:19:48 +0000</pubDate>
+  <dc:creator>maximusnye</dc:creator>
+  <guid isPermaLink="false">https://reeldataorg.wordpress.com/?p=17</guid>
+  <description/>
+  <content:encoded><Sure, here's the Apple Strudel recipe!
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Apple Strudel Recipe</title>
+</head>
+<body>
+
+	<h1>Apple Strudel</h1>
+
+	<h2>Ingredients:</h2>
+
+	<table>
+		<tr>
+			<th>Component</th>
+			<th>Amount</th>
+		</tr>
+		<tr>
+			<td>All-purpose flour</td>
+			<td>1 1/2 cups</td>
+		</tr>
+		<tr>
+			<td>Salt</td>
+			<td>1/4 teaspoon</td>
+		</tr>
+		<tr>
+			<td>Butter, cubed</td>
+			<td>1/2 cup</td>
+		</tr>
+		<tr>
+			<td>Water</td>
+			<td>1/4 cup</td>
+		</tr>
+		<tr>
+			<td>Lemon juice</td>
+			<td>1 tablespoon</td>
+		</tr>
+		<tr>
+			<td>Apples, peeled and thinly sliced</td>
+			<td>6 cups</td>
+		</tr>
+		<tr>
+			<td>Sugar</td>
+			<td>1/2 cup</td>
+		</tr>
+		<tr>
+			<td>Ground cinnamon</td>
+			<td>1 teaspoon</td>
+		</tr>
+		<tr>
+			<td>Vanilla extract</td>
+			<td>1 teaspoon</td>
+		</tr>
+		<tr>
+			<td>Breadcrumbs</td>
+			<td>1/2 cup</td>
+		</tr>
+		<tr>
+			<td>Egg</td>
+			<td>1, beaten</td>
+		</tr>
+	</table>
+
+	<h2>Steps:</h2>
+
+	<ol>
+		<li>Preheat your oven to 375°F (190°C).</li>
+		<li>In a large bowl, combine flour and salt. Add cubed butter and use a pastry cutter or your fingers to mix until the mixture resembles coarse crumbs.</li>
+		<li>Add water and lemon juice to the flour mixture, and mix until a dough forms.</li>
+		<li>On a floured surface, knead the dough for about 10 minutes until it becomes elastic and smooth.</li>
+		<li>Cover the dough with a clean towel and set aside for 1 hour to rest.</li>
+		<li>In another bowl, mix together the apples, sugar, cinnamon, vanilla extract, and breadcrumbs.</li>
+		<li>Roll out the rested dough into a thin, rectangular shape, and transfer it to a baking sheet lined with parchment paper.</li>
+		<li>Spoon the apple mixture onto the dough, spreading it out evenly and leaving a border of about 1 inch around the edges.</li>
+		<li>Roll up the dough tightly along the long edge, tucking in the edges as you go. Brush the beaten egg over the top of the strudel.</li>
+		<li>Bake for 40-45 minutes until the strudel turns golden brown.</li>
+		<li>Let the strudel cool for a few minutes before serving.</li>
+		<li>Serve with whipped cream or vanilla ice cream if desired.</li>
+	</ol>
+
+</body>
+</html>></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2023-06-20 11:19:48</wp:post_date>
+  <wp:post_date_gmt>2023-06-20 18:19:48</wp:post_date_gmt>
+  <wp:post_modified>2023-06-20 11:21:08</wp:post_modified>
+  <wp:post_modified_gmt>2023-06-20 18:21:08</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>17</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1687285191]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[85078389086]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_pingme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_encloseme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Apple Tarte Tatin Recipe #2]]></title>
+  <link>https://reeldataorg.wordpress.com/Apple-Tarte-Tatin-2</link>
+  <pubDate>Tue, 20 Jun 2023 18:19:48 +0000</pubDate>
+  <dc:creator>maximusnye</dc:creator>
+  <guid isPermaLink="false">https://reeldataorg.wordpress.com/?p=17</guid>
+  <description/>
+  <content:encoded><<!DOCTYPE html>
+<html>
+<head>
+	<title>Apple Tarte Tatin Recipe</title>
+</head>
+<body>
+	<h1>Apple Tarte Tatin Recipe</h1>
+	<h2>Ingredients</h2>
+	
+	<h3>For the pastry:</h3>
+	<table>
+		<tr>
+			<th>Ingredient</th>
+			<th>Quantity</th>
+		</tr>
+		<tr>
+			<td>All-purpose flour</td>
+			<td>1 1/2 cups</td>
+		</tr>
+		<tr>
+			<td>Unsalted butter, cold and cut into small pieces</td>
+			<td>1/2 cup</td>
+		</tr>
+		<tr>
+			<td>Granulated sugar</td>
+			<td>1/4 cup</td>
+		</tr>
+		<tr>
+			<td>Salt</td>
+			<td>1/4 tsp</td>
+		</tr>
+		<tr>
+			<td>Ice water</td>
+			<td>4-5 tbsp</td>
+		</tr>
+	</table>
+	
+	<h3>For the filling:</h3>
+	<table>
+		<tr>
+			<th>Ingredient</th>
+			<th>Quantity</th>
+		</tr>
+		<tr>
+			<td>Unsalted butter</td>
+			<td>6 tbsp</td>
+		</tr>
+		<tr>
+			<td>Golden Delicious apples, peeled, cored, and quartered</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>Granulated sugar</td>
+			<td>1 cup</td>
+		</tr>
+		<tr>
+			<td>Ground cinnamon</td>
+			<td>1 tsp</td>
+		</tr>
+		<tr>
+			<td>Lemon juice</td>
+			<td>1 tbsp</td>
+		</tr>
+	</table>
+	
+	<h2>Directions</h2>
+	<ol>
+		<li>Preheat the oven to 375°F (190°C).</li>
+		<li>To make the pastry, in a food processor, process the flour, butter, sugar, and salt until the mixture resembles coarse meal.</li>
+		<li>Add ice water, 1 tablespoon at a time, and pulse until the dough comes together in a ball.</li>
+		<li>On a floured work surface, roll out the dough into a 12-inch (30-cm) circle. Transfer to a 10-inch (25-cm) cast-iron skillet and trim the edges.</li>
+		<li>To make the filling, melt the butter in a large skillet over medium heat.</li>
+		<li>Add the apples, sugar, and cinnamon and cook, stirring occasionally, until the sugar dissolves and the apples are tender, about 15 minutes.</li>
+		<li>Remove from the heat and stir in lemon juice.</li>
+		<li>Arrange the apples in the skillet over the pastry, rounded side down.</li>
+		<li>Bake until the pastry is browned and the apples are caramelized, about 45 minutes.</li>
+		<li>Cool the tarte in the skillet for 10 minutes.</li>
+		<li>Invert the tarte onto a plate and serve.</li>
+	</ol>
+</body>
+</html>></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2023-06-20 11:19:48</wp:post_date>
+  <wp:post_date_gmt>2023-06-20 18:19:48</wp:post_date_gmt>
+  <wp:post_modified>2023-06-20 11:21:08</wp:post_modified>
+  <wp:post_modified_gmt>2023-06-20 18:21:08</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>17</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1687285191]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[85078389086]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_pingme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_encloseme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Apricot and Almond Galette Recipe #3]]></title>
+  <link>https://reeldataorg.wordpress.com/Apricot-and-Almond-Galette-3</link>
+  <pubDate>Tue, 20 Jun 2023 18:19:48 +0000</pubDate>
+  <dc:creator>maximusnye</dc:creator>
+  <guid isPermaLink="false">https://reeldataorg.wordpress.com/?p=17</guid>
+  <description/>
+  <content:encoded><<!DOCTYPE html>
+<html>
+  <head>
+    <title>Apricot and Almond Galette Recipe</title>
+  </head>
+  <body>
+    <h1>Apricot and Almond Galette Recipe</h1>
+    <h2>Ingredients</h2>
+    
+    <h3>For the crust:</h3>
+    <table>
+      <tr>
+        <td>1 1/2 cups all-purpose flour</td>
+      </tr>
+      <tr>
+        <td>1/4 cup granulated sugar</td>
+      </tr>
+      <tr>
+        <td>1/2 teaspoon salt</td>
+      </tr>
+      <tr>
+        <td>1/2 cup (1 stick) unsalted butter, cold and cut into cubes</td>
+      </tr>
+      <tr>
+        <td>3-4 tablespoons ice water</td>
+      </tr>
+    </table>
+    
+    <h3>For the filling:</h3>
+    <table>
+      <tr>
+        <td>1/4 cup almond flour</td>
+      </tr>
+      <tr>
+        <td>1/4 cup granulated sugar</td>
+      </tr>
+      <tr>
+        <td>1/4 teaspoon salt</td>
+      </tr>
+      <tr>
+        <td>1/2 teaspoon vanilla extract</td>
+      </tr>
+      <tr>
+        <td>2 tablespoons unsalted butter, melted</td>
+      </tr>
+      <tr>
+        <td>1/2 pound fresh apricots, pitted and thinly sliced</td>
+      </tr>
+    </table>
+    
+    <h2>Instructions</h2>
+    <ol>
+      <li>In a large bowl, whisk together the flour, sugar, and salt for the crust.</li>
+      <li>Using a pastry blender or two knives, cut in the butter until the mixture resembles coarse crumbs.</li>
+      <li>Gradually add the ice water, stirring until the dough comes together. Flatten the dough into a disk and wrap in plastic wrap. Chill for at least 30 minutes.</li>
+      <li>Preheat your oven to 375°F (190°C).</li>
+      <li>In a separate bowl, whisk together the almond flour, sugar, and salt for the filling. Add the vanilla extract and melted butter and stir until well combined.</li>
+      <li>On a lightly floured surface, roll out the chilled dough into a 12-inch circle. Transfer the dough to a parchment-lined baking sheet.</li>
+      <li>Spoon the filling mixture into the center of the dough and spread it out, leaving a 2-inch border around the edges.</li>
+      <li>Arrange the sliced apricots on top of the filling.</li>
+      <li>Bring the edges of the dough up and over the filling, pleating as necessary to create a rustic edge. Pinch to seal any cracks or tears in the dough.</li>
+      <li>Bake for 35-40 minutes, or until the crust is golden brown and the filling is bubbling.</li>
+      <li>Let cool for a few minutes before slicing and serving.</li>
+    </ol>
+    
+  </body>
+</html>></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2023-06-20 11:19:48</wp:post_date>
+  <wp:post_date_gmt>2023-06-20 18:19:48</wp:post_date_gmt>
+  <wp:post_modified>2023-06-20 11:21:08</wp:post_modified>
+  <wp:post_modified_gmt>2023-06-20 18:21:08</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>17</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1687285191]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[85078389086]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_pingme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_encloseme</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
